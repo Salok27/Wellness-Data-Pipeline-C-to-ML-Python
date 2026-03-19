@@ -58,9 +58,13 @@ This repository serves as a structural proof-of-concept for building a *data pip
    ``bash
    make run_all
 
+**Screenshots**
+
+
+*Filtering the raw dataset through the Binary Search Tree*
    <img width="959" height="830" alt="Screenshot 2026-03-19 172107" src="https://github.com/user-attachments/assets/23047905-23f3-44ba-957d-1409a7b86be2" />
 
-
+*The Random Forest classification report and accuracy score*
 <img width="864" height="461" alt="Screenshot 2026-03-19 172121" src="https://github.com/user-attachments/assets/834035b8-59c3-406f-9cab-905f277e7058" />
 
 

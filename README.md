@@ -1,4 +1,3 @@
-# Wellness-Data-Pipeline-C-to-ML-Python
 # Wellness Data Pipeline: C++ to Python ML
 
 ## Project Overview
